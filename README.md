@@ -10,13 +10,6 @@ O diagrama abaixo mostra o fluxo de dados desde o usuário até os principais co
 
 ![Diagrama de Arquitetura](images/Desafio.png)
 
-Para incluir a imagem, você pode:
-1.  Exportar o seu diagrama do `draw.io` como uma imagem (`.png` ou `.svg`).
-2.  Salvar a imagem na pasta do seu repositório. Uma boa prática é criar uma pasta `assets` ou `images`.
-3.  Substituir a linha acima pelo código Markdown, por exemplo: `![Diagrama de Arquitetura](assets/restaurante-architecture.png)`
-
----
-
 ### Componentes da Arquitetura
 
 #### Usuários (Web / App)
