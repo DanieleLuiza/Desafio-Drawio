@@ -8,7 +8,7 @@ Este repositório contém o diagrama de arquitetura de uma aplicação web de re
 
 O diagrama abaixo mostra o fluxo de dados desde o usuário até os principais componentes de backend.
 
-**INSERIR IMAGEM DO DIAGRAMA AQUI**
+`![Diagrama de Arquitetura](images/Desafio.png)`
 
 Para incluir a imagem, você pode:
 1.  Exportar o seu diagrama do `draw.io` como uma imagem (`.png` ou `.svg`).
